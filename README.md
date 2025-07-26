@@ -42,18 +42,6 @@ Currently, my focus is on building a hands-on portfolio that showcases real-worl
 
 ---
 
-## 🚩 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adishree951&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adishree951&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adishree951&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
